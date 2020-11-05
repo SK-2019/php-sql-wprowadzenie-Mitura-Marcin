@@ -5,6 +5,9 @@
         <link rel="stylesheet" href="style.css">
     </head>
 <body>
+    <div>
+        mave jest głupi
+    </div>
     <div class="nav">
         Place for navigation and links
         <a href="Organizacja_i_pracownicy.php">Organizacja_i_pracownicy<a>;
